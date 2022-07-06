@@ -1,4 +1,4 @@
-# Multivariate Analysis using Decision Tree (Gini coefficient) for Customer Segmentation
+# Multivariate Analysis using Decision Tree (Gini coefficient) for Improving DM Response
 This repository contains files from a private course by ABeam Consulting x ITB. The files included in this repository had already been permitted by the course authority to be uploaded, while the dataset being used in this repository is exclusive to participants of the course.
 The purpose of this repository is to show the steps in doing Multivariate Analysis using Machine Learning for Customer Segmentation, in this case Decision Tree Classification. Therefore, there are two files, one using entropy while the other one using gini coefficient.
 
